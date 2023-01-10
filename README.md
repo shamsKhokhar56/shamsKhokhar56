@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shamsKhokhar56
+- 👋 Hi, I’m Shams
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me shamsudinkhokha56@gmail.com
 <!-- - 👀 I’m interested in Mobile Application Development (React Native) -->
