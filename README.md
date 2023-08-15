@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shams
-- 🌱 I’m currently learning React Native
+- 🌱 REACT NATIVE DEVELOPER
 - 📫 How to reach me shamsudinkhokha56@gmail.com
 <!-- - 👀 I’m interested in Mobile Application Development (React Native) -->
 
